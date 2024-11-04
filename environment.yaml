@@ -1,0 +1,24 @@
+name: digital-design-dataset
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - scipy
+  - networkx
+  - pygraphviz
+  - scikit-learn
+  - matplotlib
+  - pandas
+  - seaborn
+  - jupyter 
+  - pygithub
+  - py7zr
+  - tqdm
+  - joblib
+  - rich
+  - python-dotenv
+  - mypy
+  - ruff
